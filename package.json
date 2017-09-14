@@ -1,0 +1,16 @@
+{
+  "name": "auctio-coverphoto",
+  "version": "0.1.1",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.16",
+    "grunt-contrib": ">0",
+    "grunt-coffeelint": ">0",
+    "grunt-eco-amd": ">0"
+  }
+}

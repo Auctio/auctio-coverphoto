@@ -1,0 +1,29 @@
+{
+  "name": "auctio-coverphoto",
+  "version": "0.1.1",
+  "description": "Create Facebook-like cover photos.",
+  "main": [
+      "dist/coverphoto.css",
+      "dist/coverphoto.min.js"
+  ],
+  "authors": [
+    "Sandro Padin <sandropadin@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Cover",
+    "Photo"
+  ],
+  "homepage": "https://github.com/Auctio/auctio-coverphoto",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "jquery-ui": "^1.11.4"
+  }
+}
